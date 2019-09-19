@@ -1,4 +1,4 @@
-# Project 2 - General Assembly Assignment
+# Project 2 - Exploratory Data Analysis (EDA) - General Assembly Assignment
 
 - - - - 
 
