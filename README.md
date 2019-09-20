@@ -2,7 +2,7 @@
 
 - - - - 
 
-During this project, I learned how to perform exploratory data analysis (EDA) on a Sats_Scores dataset. 
+During this project, I learned how to perform exploratory data analysis (EDA) on a Sat Scores dataset. 
 
 * Matplotlib + Seaborn Plotting
 * Correlations & Heatmaps
